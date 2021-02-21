@@ -1,5 +1,4 @@
 # NewLife
-cheers mate
 
-I've been in a bad spot and am taking the initiative to improve my situation, great things await
-stay tuned xx
+
+Where I will share and track progress and gain input for my Ticket Manager App
