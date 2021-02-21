@@ -1,4 +1,4 @@
-# NewLife
+# First Project in Node
 
 
-Where I will share, track progress and gain input for my Ticket Manager App
+My repository to share, track progress and gain input for my Ticket Manager App
